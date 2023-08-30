@@ -93,7 +93,7 @@ Save the Clean data to the file
 
 ![Screenshot (33)](https://github.com/pradeepasri26/ODD2023-Datascience-Ex01/assets/131433142/1b8dd877-b20d-4e34-8d1f-77b9cfe3b747)
 
-![Screenshot (34)](https://github.com/pradeepasri26/ODD2023-Datascience-Ex01/assets/131433142/84ae039c-6eb9-4cf5-a9af-e62194f88916)
+![Screenshot (72)](https://github.com/pradeepasri26/ODD2023-Datascience-Ex01/assets/131433142/c963baec-059f-4663-b6a0-188a3caf6617)
 
 # NON NULL BEOFRE
 ![Screenshot (39)](https://github.com/pradeepasri26/ODD2023-Datascience-Ex01/assets/131433142/85eed589-ae9c-4c95-81f3-64ea67ca48ea)
